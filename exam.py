@@ -14,4 +14,6 @@ def gra():
        otv_dey = random.choice(var_dey)
        print(otv_dey)
 
+return random.choice(var_dey)
+return random.choice(var_prav)
 gra()
